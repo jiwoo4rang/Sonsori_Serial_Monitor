@@ -1,2 +1,2 @@
 # Sonsori_Serial_Monitor
- main screen
+ <p> 손가락 동작을 2, 1, 0의 3개의 값을 나누어서 손가락의 구부림을 통해 수화를 할 수 있도록 설계하였다

@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+C:\Users\user\Desktop\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+C:\Users\user\Desktop\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+C:\Users\user\Desktop\SerialTest\SerialTest\obj\Debug\SerialTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+C:\Users\user\Desktop\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+C:\Users\lego7\Desktop\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+C:\Users\lego7\Desktop\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+C:\Users\lego7\Desktop\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+C:\Users\lego7\Desktop\SerialTest\SerialTest\obj\Debug\SerialTest.csprojAssemblyReference.cache
+C:\Users\lego7\Desktop\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.CoreCompileInputs.cache
+C:\Users\lego7\Desktop\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+C:\Users\lego7\Desktop\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\SerialTest\bin\Debug\SerialTest.exe.config
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\SerialTest\bin\Debug\SerialTest.exe
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\SerialTest\bin\Debug\SerialTest.pdb
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\SerialTest\obj\Debug\SerialTest.csprojAssemblyReference.cache
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\SerialTest\obj\Debug\SerialTest.exe
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\SerialTest\obj\Debug\SerialTest.pdb

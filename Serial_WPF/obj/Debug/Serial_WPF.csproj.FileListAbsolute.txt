@@ -1,0 +1,92 @@
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\bin\Debug\Serial_WPF.exe.config
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\bin\Debug\Serial_WPF.exe
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\bin\Debug\Serial_WPF.pdb
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\Serial_WPF.csprojAssemblyReference.cache
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\App.g.cs
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.cache
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.lref
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\MainWindow.baml
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\Serial_WPF.g.resources
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\Serial_WPF.Properties.Resources.resources
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\Serial_WPF.csproj.GenerateResource.cache
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\Serial_WPF.csproj.CoreCompileInputs.cache
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\Serial_WPF.exe
+C:\Users\lego7\Desktop\SerialTest\Serial_WPF\obj\Debug\Serial_WPF.pdb
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\bin\Debug\Serial_WPF.exe.config
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\bin\Debug\Serial_WPF.exe
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\bin\Debug\Serial_WPF.pdb
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\Serial_WPF.csprojAssemblyReference.cache
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\App.g.cs
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\Serial_WPF_Content.g.cs
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.cache
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.lref
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\MainWindow.baml
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\Serial_WPF.g.resources
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\Serial_WPF.Properties.Resources.resources
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\Serial_WPF.csproj.GenerateResource.cache
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\Serial_WPF.exe
+C:\Users\ycy99\Desktop\캡스톤\SerialTest_ver1.4.0 (1) (2)\Serial_WPF\obj\Debug\Serial_WPF.pdb
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\bin\Debug\Serial_WPF.exe.config
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\bin\Debug\Serial_WPF.exe
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\bin\Debug\Serial_WPF.pdb
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.csprojAssemblyReference.cache
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\App.g.cs
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF_Content.g.cs
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.cache
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.lref
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\MainWindow.baml
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.g.resources
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.Properties.Resources.resources
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.csproj.GenerateResource.cache
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.exe
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.pdb
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\bin\Debug\Serial_WPF.exe.config
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\bin\Debug\Serial_WPF.exe
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\bin\Debug\Serial_WPF.pdb
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.csprojAssemblyReference.cache
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\App.g.cs
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF_Content.g.cs
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.cache
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.lref
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\MainWindow.baml
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.g.resources
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.Properties.Resources.resources
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.csproj.GenerateResource.cache
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.csproj.CoreCompileInputs.cache
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.exe
+C:\Users\lego7\Desktop\Serial+speek_v1.0.0\Serial_WPF\obj\Debug\Serial_WPF.pdb
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\Serial_WPF.csprojAssemblyReference.cache
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\App.g.cs
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\Serial_WPF_Content.g.cs
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.cache
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.lref
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\Serial_WPF.exe
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\Serial_WPF.pdb
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\bin\Debug\Serial_WPF.exe.config
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\bin\Debug\Serial_WPF.exe
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\bin\Debug\Serial_WPF.pdb
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\MainWindow.baml
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\Serial_WPF.g.resources
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\Serial_WPF.Properties.Resources.resources
+C:\Users\ycy99\Desktop\캡스톤\Serial+speek_v1.1.0\Serial_WPF\obj\Debug\Serial_WPF.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\bin\Debug\Serial_WPF.exe.config
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\bin\Debug\Serial_WPF.exe
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\bin\Debug\Serial_WPF.pdb
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF_Content.g.cs
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.cache
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF_MarkupCompile.lref
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF.g.resources
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF.Properties.Resources.resources
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF.exe
+C:\Users\user\Desktop\Serial+speek_v1.2.0\Serial+speek_v1.2.0\Serial_WPF\obj\Debug\Serial_WPF.pdb
